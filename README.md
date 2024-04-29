@@ -1,1 +1,2 @@
-# CNN1
+Our research presents a novel approach to intrusion detection that uses Convolutional Neural Networks (CNNs) to detect and classify both known and unknown cyberattacks. Our approach outperforms conventional signature-based techniques by utilizing the CNN's capacity to independently extract characteristics from unprocessed network traffic data. Our CNN-based method has been thoroughly tested against benchmark datasets and has proven to be extremely accurate and robust, even when it comes to identifying zero-day threats. Thus, our suggested methodology strengthens the security of contemporary network infrastructures and constitutes a significant improvement in cyber-defense. Here we are using the application to deploy the project in web application using FLASK.
+
